@@ -1,5 +1,5 @@
 
-           - 👋 Hi, I’m @ozkankaratas
-           - 👀 I’m interested in code writing 
-           - 🌱 I’m currently learning python, c#, html, java, kotlin... 
-           - 💞️ I’m looking to collaborate on mobile programming
+           - 👋 I'm a computer engineering student
+           - 👀 C, C#, .Net, Python, MySql
+           - 🌱 I will share some of the projects I have done here
+           - 💞️ You can follow me on https://www.linkedin.com/in/ozkankaratas/
